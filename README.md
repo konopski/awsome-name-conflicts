@@ -1,0 +1,1 @@
+# awsome-name-conflicts
