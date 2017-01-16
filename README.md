@@ -8,3 +8,5 @@
 | https://github.com/foundweekends/conscript scala launcher | https://github.com/google/conscrypt Java Security Provider |
 | atom      |
 | https://tools.ietf.org/html/rfc5023 RSS successor | https://atom.io/ text editor |
+| phoenix   |
+| https://phoenix.apache.org database | https://github.com/phoenixframework/phoenix elixir web framework |
