@@ -1,4 +1,4 @@
-# awsome-name-conflicts
+# awsome (?) name conflicts
 
 |  |  |
 | ------------- | ------------- |
