@@ -9,4 +9,6 @@
 | atom      |
 | https://tools.ietf.org/html/rfc5023 RSS successor | https://atom.io/ text editor |
 | phoenix   |
-| https://phoenix.apache.org database | https://github.com/phoenixframework/phoenix elixir web framework |
+| https://phoenix.apache.org database with HBase and SQL | https://github.com/phoenixframework/phoenix elixir web framework |
+| luna      |
+| http://www.luna-lang.org programming language | https://github.com/tj/luna another programming language
