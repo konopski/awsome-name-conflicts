@@ -11,4 +11,7 @@
 | phoenix   |
 | https://phoenix.apache.org database with HBase and SQL | https://github.com/phoenixframework/phoenix elixir web framework |
 | luna      |
-| http://www.luna-lang.org programming language | https://github.com/tj/luna another programming language
+| http://www.luna-lang.org programming language | https://github.com/tj/luna another programming language |
+| cats      |
+| https://github.com/typelevel/cats functional programming for scala | https://github.com/funcool/cats functional programming for clojure |
+
