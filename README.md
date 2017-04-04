@@ -16,3 +16,5 @@
 | https://github.com/typelevel/cats functional programming for scala | https://github.com/funcool/cats functional programming for clojure |
 | pony      |
 | https://github.com/ponylang/ponyc programming language with actors | https://github.com/ponyorm/pony ORM in python |
+| reactor   |
+| https://github.com/reactor Reactive Streams based projects for backpressure-ready asynchronous message passing | http://maven.apache.org/plugins/maven-reactor-plugin multi-module plugin for maven (retired) | 
