@@ -1,3 +1,4 @@
+
 # awsome (?) name conflicts
 
 |  |  |
@@ -18,3 +19,5 @@
 | https://github.com/ponylang/ponyc programming language with actors | https://github.com/ponyorm/pony ORM in python |
 | reactor   |
 | https://github.com/reactor Reactive Streams based projects for backpressure-ready asynchronous message passing | http://maven.apache.org/plugins/maven-reactor-plugin multi-module plugin for maven (retired) | 
+| gosu |
+| https://github.com/gosu-lang/gosu-lang Programming language on JVM | https://github.com/gosu/gosu  2D game development library |
