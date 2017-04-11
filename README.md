@@ -23,3 +23,5 @@
 | https://github.com/reactor Reactive Streams based projects for backpressure-ready asynchronous message passing | http://maven.apache.org/plugins/maven-reactor-plugin multi-module plugin for maven (retired) | 
 | gosu |
 | https://github.com/gosu-lang/gosu-lang Programming language on JVM | https://github.com/gosu/gosu  2D game development library |
+| jade |
+| http://jade.tilab.com multiagent system | https://www.npmjs.com/package/jade template language * renamed recently to `Pug` | 
