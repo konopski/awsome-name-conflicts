@@ -25,3 +25,5 @@
 | https://github.com/gosu-lang/gosu-lang Programming language on JVM | https://github.com/gosu/gosu  2D game development library |
 | jade |
 | http://jade.tilab.com multiagent system | https://www.npmjs.com/package/jade template language * renamed recently to `Pug` | 
+| go   |
+| http://www.go.cd continous delivery server | https://golang.org language from google  |   
