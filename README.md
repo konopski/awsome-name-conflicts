@@ -26,4 +26,6 @@
 | jade |
 | http://jade.tilab.com multiagent system | https://www.npmjs.com/package/jade template language * renamed recently to `Pug` | 
 | go   |
-| http://www.go.cd continous delivery server | https://golang.org language from google  |   
+| http://www.go.cd continous delivery server | https://golang.org language from google  | 
+| rhino |
+| https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino JVM based JavaScript dialect | http://www.rhino3d.com 3D modelling lib |
