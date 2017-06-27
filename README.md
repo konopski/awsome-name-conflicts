@@ -29,3 +29,7 @@
 | http://www.go.cd continous delivery server | https://golang.org language from google  | 
 | rhino |
 | https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino JVM based JavaScript dialect | http://www.rhino3d.com 3D modelling lib |
+| crate |
+| https://github.com/ibdknox/crate templating engine in clojure script | https://github.com/copiousfreetime/crate standalone app builder for ruby |
+| crate io |
+| https://github.com/rust-lang/crates.io registry for rust packages | https://github.com/crate/crate elasticsearch based sql-like data storage |
