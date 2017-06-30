@@ -37,3 +37,6 @@
 | https://github.com/ibdknox/crate templating engine in clojure script | https://github.com/copiousfreetime/crate standalone app builder for ruby |
 | crate io |
 | https://github.com/rust-lang/crates.io registry for rust packages | https://github.com/crate/crate elasticsearch based sql-like data storage |
+| blueprint |
+| https://github.com/joshuaclayton/blueprint-css css grid framework | https://github.com/palantir/blueprint react based UI-toolkit |
+
