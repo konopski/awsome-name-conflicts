@@ -39,4 +39,7 @@
 | https://github.com/rust-lang/crates.io registry for rust packages | https://github.com/crate/crate elasticsearch based sql-like data storage |
 | blueprint |
 | https://github.com/joshuaclayton/blueprint-css css grid framework | https://github.com/palantir/blueprint react based UI-toolkit |
+| squirrel |
+| http://squirrel-sql.sourceforge.net sql client | https://github.com/hekailiang/squirrel state machine |
+| https://github.com/Squirrel/Squirrel.Windows app installer for Windows |
 
