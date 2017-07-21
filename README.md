@@ -42,4 +42,6 @@
 | squirrel |
 | http://squirrel-sql.sourceforge.net sql client | https://github.com/hekailiang/squirrel state machine |
 | https://github.com/Squirrel/Squirrel.Windows app installer for Windows |
+| composure | 
+| https://github.com/weavejester/compojure clojure web routing framework | https://github.com/erichs/composure shell scrip crafting framework
 
