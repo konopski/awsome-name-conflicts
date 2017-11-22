@@ -47,5 +47,7 @@
 | jq |
 | https://github.com/stedolan/jq command line JSON processor | https://github.com/Teradata/jaqy SQL client, surprisingly installs itself as `jq` |
 | https://jquery.com/ jQuery also does fall into this category | |
+| jest |
+| https://github.com/facebook/jest javascript testing framework | https://github.com/searchbox-io/Jest Java ElasticSearch REST client |
  
 
