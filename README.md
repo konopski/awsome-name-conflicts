@@ -51,4 +51,6 @@
 | https://github.com/facebook/jest javascript testing framework | https://github.com/searchbox-io/Jest Java ElasticSearch REST client |
 | sputnik |
 | https://github.com/TouK/sputnik static code review tool | https://github.com/szwacz/sputnik desktop RSS reader |
+| poi |
+| https://github.com/apache/poi lib for MS Office manipulation | https://github.com/egoist/poi js framework |
 
