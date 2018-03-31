@@ -53,4 +53,7 @@
 | https://github.com/TouK/sputnik static code review tool | https://github.com/szwacz/sputnik desktop RSS reader |
 | poi |
 | https://github.com/apache/poi lib for MS Office manipulation | https://github.com/egoist/poi js framework |
+| machete |
+| https://github.com/cloudfoundry/machete CF buildpack test framework | https://github.com/phatboyg/Machete parsing, querying and processing sophisticated text |
+| https://github.com/PawelLipski/git-machete helper for git rebase |
 
