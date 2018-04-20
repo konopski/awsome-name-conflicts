@@ -56,4 +56,6 @@
 | machete |
 | https://github.com/cloudfoundry/machete CF buildpack test framework | https://github.com/phatboyg/Machete parsing, querying and processing sophisticated text |
 | https://github.com/PawelLipski/git-machete helper for git rebase |
+| yarn |
+| https://github.com/apache/hadoop/tree/trunk/hadoop-yarn-project hadoop cluster resource management | https://github.com/yarnpkg/yarn dependency manager in javascript ecosystem |
 
