@@ -58,4 +58,5 @@
 | https://github.com/PawelLipski/git-machete helper for git rebase |
 | yarn |
 | https://github.com/apache/hadoop/tree/trunk/hadoop-yarn-project hadoop cluster resource management | https://github.com/yarnpkg/yarn dependency manager in javascript ecosystem |
-
+| spark |
+| https://github.com/apache/spark big data processsing engine |  https://github.com/perwendel/spark tiny web framework |
