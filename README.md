@@ -60,3 +60,5 @@
 | https://github.com/apache/hadoop/tree/trunk/hadoop-yarn-project hadoop cluster resource management | https://github.com/yarnpkg/yarn dependency manager in javascript ecosystem |
 | spark |
 | https://github.com/apache/spark big data processsing engine |  https://github.com/perwendel/spark tiny web framework |
+| camel |
+| https://github.com/apache/camel enterprise integration framework | https://github.com/decorators-squad/camel yaml for java |
