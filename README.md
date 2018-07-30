@@ -62,3 +62,6 @@
 | https://github.com/apache/spark big data processsing engine |  https://github.com/perwendel/spark tiny web framework |
 | camel |
 | https://github.com/apache/camel enterprise integration framework | https://github.com/decorators-squad/camel yaml for java |
+| james |
+| https://github.com/apache/james-project mail server | https://github.com/james-proxy/james debugging web proxy |
+
