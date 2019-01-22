@@ -64,4 +64,7 @@
 | https://github.com/apache/camel enterprise integration framework | https://github.com/decorators-squad/camel yaml for java |
 | james |
 | https://github.com/apache/james-project mail server | https://github.com/james-proxy/james debugging web proxy |
+| seed |
+| https://github.com/David-OConnor/seed A Rust framework for creating web apps | https://github.com/tindzk/seed build tool for scala projects |
+
 
