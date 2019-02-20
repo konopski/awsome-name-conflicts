@@ -66,5 +66,8 @@
 | https://github.com/apache/james-project mail server | https://github.com/james-proxy/james debugging web proxy |
 | seed |
 | https://github.com/David-OConnor/seed A Rust framework for creating web apps | https://github.com/tindzk/seed build tool for scala projects |
+| arrow |
+| https://github.com/arrow-kt/arrow functional extensions for Kotlin | https://github.com/android10/arrow lightweight toolbox for Java/Android |
+| https://github.com/apache/arrow cross-language development platform for in-memory data | https://github.com/crsmithdev/arrow better dates & times for Python |
 
 
