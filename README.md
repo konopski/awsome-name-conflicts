@@ -69,5 +69,7 @@
 | arrow |
 | https://github.com/arrow-kt/arrow functional extensions for Kotlin | https://github.com/android10/arrow lightweight toolbox for Java/Android |
 | https://github.com/apache/arrow cross-language development platform for in-memory data | https://github.com/crsmithdev/arrow better dates & times for Python |
-
+| grin |
+| https://github.com/rkern/grin my favourite `ack` replacement | https://github.com/mimblewimble/grin blockchain implementation |
+| https://github.com/grin-compiler/grin compiler for functional languages |
 
