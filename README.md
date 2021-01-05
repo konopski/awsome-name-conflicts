@@ -46,7 +46,7 @@
 | https://github.com/weavejester/compojure clojure web routing framework | https://github.com/erichs/composure shell scrip crafting framework
 | jq |
 | https://github.com/stedolan/jq command line JSON processor | https://github.com/Teradata/jaqy SQL client, surprisingly installs itself as `jq` |
-| https://jquery.com/ jQuery also does fall into this category | |
+| https://jquery.com/ jQuery also does fall into this category | https://github.com/timestored/jq JVM implementation of `q` language |
 | jest |
 | https://github.com/facebook/jest javascript testing framework | https://github.com/searchbox-io/Jest Java ElasticSearch REST client |
 | sputnik |
