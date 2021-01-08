@@ -72,4 +72,6 @@
 | grin |
 | https://github.com/rkern/grin my favourite `ack` replacement | https://github.com/mimblewimble/grin blockchain implementation |
 | https://github.com/grin-compiler/grin compiler for functional languages |
+| grub |
+| https://github.com/prezi/grub template engine for new projects | https://www.gnu.org/software/grub/ linux loader |
 
