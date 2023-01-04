@@ -74,4 +74,5 @@
 | https://github.com/grin-compiler/grin compiler for functional languages |
 | grub |
 | https://github.com/prezi/grub template engine for new projects | https://www.gnu.org/software/grub/ linux loader |
-
+| gum | 
+| https://github.com/kordamp/gm Gradle/Maven/Bach/JBang/Ant wrapper written in Go | https://github.com/charmbracelet/gum tool for glamorous shell scripts  |
