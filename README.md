@@ -77,3 +77,6 @@
 | https://github.com/prezi/grub template engine for new projects | https://www.gnu.org/software/grub/ linux loader |
 | gum | 
 | https://github.com/kordamp/gm Gradle/Maven/Bach/JBang/Ant wrapper written in Go | https://github.com/charmbracelet/gum tool for glamorous shell scripts  |
+| just | 
+| https://github.com/just-js/just small v8 javascript runtime | https://github.com/casey/just command runner |
+
