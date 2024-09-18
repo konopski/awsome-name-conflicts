@@ -79,4 +79,6 @@
 | https://github.com/kordamp/gm Gradle/Maven/Bach/JBang/Ant wrapper written in Go | https://github.com/charmbracelet/gum tool for glamorous shell scripts  |
 | just | 
 | https://github.com/just-js/just small v8 javascript runtime | https://github.com/casey/just command runner |
+| gatling | 
+| https://github.com/hashrocket/gatling deploy a bunch of Phoenix(Elixir) apps | https://github.com/gatling/gatling load test tool |
 
