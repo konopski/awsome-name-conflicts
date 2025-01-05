@@ -81,4 +81,6 @@
 | https://github.com/just-js/just small v8 javascript runtime | https://github.com/casey/just command runner |
 | gatling | 
 | https://github.com/hashrocket/gatling deploy a bunch of Phoenix(Elixir) apps | https://github.com/gatling/gatling load test tool |
+| storm | 
+| https://github.com/apache/storm distributed real-time computation engine | https://github.com/stanford-oval/storm LLM-powered knowledge curation system |
 
