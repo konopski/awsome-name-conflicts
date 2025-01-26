@@ -83,4 +83,7 @@
 | https://github.com/hashrocket/gatling deploy a bunch of Phoenix(Elixir) apps | https://github.com/gatling/gatling load test tool |
 | storm | 
 | https://github.com/apache/storm distributed real-time computation engine | https://github.com/stanford-oval/storm LLM-powered knowledge curation system |
+| diffuse | 
+| https://github.com/MightyCreak/diffuse tool for comparing and merging text files | https://github.com/JakeWharton/diffuse tool for diffing APKs, AABs, AARs, and JARs |
+
 
